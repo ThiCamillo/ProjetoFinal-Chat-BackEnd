@@ -31,7 +31,7 @@ public class Executavel {
 
 	   public static void main(String[] args) {
 
-	      exibirLogotipo();
+	     // exibirLogotipo();
 	      boolean sair = false;
 
 	      /* tela de login e cadastro */
@@ -233,8 +233,8 @@ public class Executavel {
 	   /**
 	    * printa o logotipo mto top do app
 	    */
-	   private static void exibirLogotipo() {
+/*	   private static void exibirLogotipo() {
 	      System.out.println("\r\n" + "                                                 _       \r\n" + "                                                (_)      \r\n" + "  _ __ ___   ___ _ __  ___  __ _  __ _  ___ _ __ _  __ _ \r\n" + " | '_ ` _ \\ / _ \\ '_ \\/ __|/ _` |/ _` |/ _ \\ '__| |/ _` |\r\n" + " | | | | | |  __/ | | \\__ \\ (_| | (_| |  __/ |  | | (_| |\r\n" + " |_| |_| |_|\\___|_| |_|___/\\__,_|\\__, |\\___|_|  |_|\\__,_|\r\n" + "                                  __/ |                  \r\n" + "                                 |___/                   \r");
 	   }
-
+*/
 }
